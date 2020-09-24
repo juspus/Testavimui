@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Sveiki visi!"); //Justas
-
+            Console.WriteLine("Laba, mano vardas Neringa")
 
 
 
