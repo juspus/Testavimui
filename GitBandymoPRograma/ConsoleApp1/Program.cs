@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
 
+
             Console.WriteLine("Sveiki, mano vardas Vaidotas");
 
             Console.WriteLine("Sveiki visi!"); //Justas
@@ -19,6 +20,9 @@ namespace ConsoleApp1
 
 
             Console.Read();
+
+
+            Console.WriteLine("Donato Pasisveikinimas");
 
         }
     }
