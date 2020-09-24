@@ -10,12 +10,14 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Sveiki visi!"); //Justas
+            Console.WriteLine("Labas vakars: Agna");
+           
+            Console.WriteLine("Sveiki, mano vardas Vaidotas");
+            Console.WriteLine("Sveiki visi!"); //JustasPasisveikinimasNuoNeringos
             Console.WriteLine("Labas vakaras, mano vardas Neringa")
 
-
-
-            Console.Read();
+            Console.WriteLine("Donato Pasisveikinimas");
+            Console.ReadLine();
         }
     }
 }
