@@ -15,6 +15,7 @@ namespace ConsoleApp1
             Console.WriteLine("Sveiki, mano vardas Vaidotas");
             Console.WriteLine("Sveiki visi!"); //Justas
             Console.WriteLine("Donato Pasisveikinimas");
+            Console.WriteLine("sveiki ;)");
 
 
         }
