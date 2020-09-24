@@ -19,7 +19,7 @@ namespace ConsoleApp1
 
             Console.WriteLine("Donato Pasisveikinimas");
 
-
+            Console.ReadLine();
         }
     }
 }
